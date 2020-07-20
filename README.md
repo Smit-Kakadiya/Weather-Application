@@ -7,4 +7,15 @@
   /scripts/forecast.js
     Go to the line 1
       const key= "Paste Your Key Here";
- ``` 
+  ```
+
+## Author
+
+- [Smit Kakadiya](http://www.SmitKakadiya.Ml)
+
+## Technologies
+
+- AccuWeather API
+- HTML
+- CSS
+- JavaScript
